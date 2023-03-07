@@ -12,7 +12,7 @@
     "codemirror": "^5.65.1",
     "events": "^3.2.0",
     "json-rpc-protocol": "^0.13.1",
-    "luxon": "^1.25.0",
+    "luxon": "^1.28.1",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
     "react-router-dom": "^5.2.0",
