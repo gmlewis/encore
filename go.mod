@@ -34,7 +34,7 @@ require (
 	golang.org/x/mod v0.5.1
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20211205182925-97ca703d548d
+	golang.org/x/sys v0.1.0
 	golang.org/x/text v0.3.7
 	golang.org/x/tools v0.1.9
 	golang.zx2c4.com/wireguard v0.0.0-20210728232740-bad6caeb82ed
